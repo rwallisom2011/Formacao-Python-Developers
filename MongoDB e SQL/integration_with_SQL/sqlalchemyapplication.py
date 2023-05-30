@@ -55,7 +55,7 @@ with Session(engine) as session:
     nino = User(
         name="NINO",
         fullname="NINOseg",
-        address=[Address(email_address="byttencourt@hotmail.com")]
+        address=[Address(email_address="wallisom@hotmail.com")]
     )
 
     nico = User(
